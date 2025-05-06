@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+
+Name: dataloader-63.0.0.jar
+SHA-256-Digest: 7CD2NibzfeVYMIKRQXqVZjTpPjM45n11Kh4iIf/4fb8=
+
+Name: install.bat
+SHA-256-Digest: 8qUveWmN8YF5Q9W7x71wXTeWYWzZRzabAInM8uI3/4Q=
+
+Name: install.command
+SHA-256-Digest: 8qUveWmN8YF5Q9W7x71wXTeWYWzZRzabAInM8uI3/4Q=
+
+Name: util/util.bat
+SHA-256-Digest: FQxfH+gt4G9CayfU69zqObdaDN+4CbUcoePhmEpNRsQ=
+
+Name: util/util.sh
+SHA-256-Digest: VTnyafAxvYa+Y/3ZGqi4KKQLicyO/3rDoUFhSiWJjus=
+
